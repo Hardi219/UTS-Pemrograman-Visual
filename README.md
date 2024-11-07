@@ -1,7 +1,7 @@
 # UTS-Pemrograman-Visual
 
-Nama : Hardi Wirkan
-Nim  : 312210492
+Nama : Hardi Wirkan <BR>
+Nim  : 312210492 <BR>
 Kelas : TI.22.A.5
 
 
